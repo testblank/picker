@@ -1,6 +1,6 @@
 {
   "name": "sh-react-picker",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "description": "(base on rmc-picker-scroll)React Mobile Picker Component(web and react-native), fork from rmc-picker, add scroll visible effect and can click to scroll",
   "keywords": [
     "react",
