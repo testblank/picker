@@ -18,13 +18,12 @@
     "url": "https://github.com/testblank/picker/issues"
   },
   "files": [
-    "lib",
-    "es",
+    "src",
     "assets/*.css"
   ],
   "license": "MIT",
-  "main": "./lib/index",
-  "module": "./es/index",
+  "main": "./src/index",
+  "module": "./src/index",
   "config": {
     "port": 8021,
     "entry": [
