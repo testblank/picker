@@ -1,5 +1,5 @@
 {
-  "name": "react-picker",
+  "name": "sh-react-picker",
   "version": "6.0.0",
   "description": "(base on rmc-picker-scroll)React Mobile Picker Component(web and react-native), fork from rmc-picker, add scroll visible effect and can click to scroll",
   "keywords": [
@@ -9,13 +9,13 @@
     "m-picker",
     "rmc-picker-scroll"
   ],
-  "homepage": "https://github.com/cccRaim/m-picker",
+  "homepage": "https://github.com/testblank/picker",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cccRaim/m-picker"
+    "url": "https://github.com/testblank/picker"
   },
   "bugs": {
-    "url": "https://github.com/cccRaim/m-picker/issues"
+    "url": "https://github.com/testblank/picker/issues"
   },
   "files": [
     "lib",
